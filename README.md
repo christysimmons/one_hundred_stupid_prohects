@@ -1,2 +1,2 @@
-# one_hundred_stupid_prohects
+# one_hundred_stupid_projects
 Habits
